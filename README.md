@@ -20,7 +20,7 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 | x | x | [x](x)  |
 
 ## TikTok
-
+| 30 March 2022 | Serves up sex and drug videos to minors | [x](x)  | 
 
 
 ## Twitter
