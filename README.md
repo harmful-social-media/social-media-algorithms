@@ -17,7 +17,7 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 | Date | Ill-effect | Research source |
 |---|---|---|
 | 30 March 2022 | Leads teens to eating disorder content | [x](x)  | 
-| x | x | [x](x)  |
+| x | can send teens spiraling toward eating disorders, an unhealthy sense of their own bodies and depression | [x](x)  |
 
 ## TikTok
 | Date | Ill-effect | Research source |
