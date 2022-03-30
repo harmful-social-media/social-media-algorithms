@@ -6,7 +6,7 @@ Research has proven that social media algorithms are having a hamrful impact on 
 ## Facebook
 
 | Ill-effect | Date | Research source |
-|---|---|---|
+|:---|:---|:---|
 | Pushes climate sceptics towards increasingly extreme disinformation and conspiracy groups | 30 March 2022 | [BBC](https://www.bbc.com/news/technology-60905348)  | 
 | Pushes mysoginy, hate and abuse | 18 October 2021 | [BBC](https://www.bbc.com/news/uk-58924168)  |
 ||||
