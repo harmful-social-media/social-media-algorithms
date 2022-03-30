@@ -15,7 +15,7 @@ Research has proven that social media algorithms are having a harmful impact on 
 ## Instagram
 | Ill-effect | Date | Research source |
 |:---|:---|:---|
-| Leads teens to eating disorder content | 30 March 2022 | [x](x)  | 
+| Leads teens to eating disorder content | Sept 14 2021 | [Wall Street Journal](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739)  | 
 ||||
 
 ## TikTok
