@@ -1,4 +1,4 @@
-# Social Media Algorithms ill-effects 
+# Social media algorithms ill-effects 
 
 The impact that social media algorithms are having on people is a severe and widely documented issue. 
 
