@@ -21,7 +21,7 @@ Research has proven that social media algorithms are having a hamrful impact on 
 ## TikTok
 | Ill-effect | Date | Research source |
 |:---|:---|:---|
-| Serves up sex and drug videos to minors | 30 March 2022 |  [Wall Street Journal](https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944)  | 
+| Serves up sex and drug videos to minors | 8 September 2021 |  [Wall Street Journal](https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944)  | 
 ||||
 
 
