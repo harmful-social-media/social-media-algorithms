@@ -16,7 +16,7 @@ Research has proven that social media algorithms are having a hamrful impact on 
 | Ill-effect | Date | Research source |
 |:---|:---|:---|
 | Leads teens to eating disorder content | 30 March 2022 | [x](x)  | 
-| Can send teens spiraling toward eating disorders, an unhealthy sense of their own bodies and depression | x | [x](x)  |
+||||
 
 ## TikTok
 | Ill-effect | Date | Research source |
