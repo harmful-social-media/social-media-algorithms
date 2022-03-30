@@ -28,7 +28,7 @@ Research has proven that social media algorithms are having a hamrful impact on 
 ## Youtube
 | Ill-effect | Date | Research source |
 |:---|:---|:---|
-| Pushes users to view mis-information and conspiracy theories | 30 March 2022 | [New York Times](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) |
+| Pushes users to view mis-information and conspiracy theories | 16 April 2020 | [New York Times](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) |
 ||||
 
 
