@@ -1,6 +1,6 @@
 # Social media algorithm ill-effects 
 
-Research has proven that social media algorithms are having a hamrful impact on people. Here, we'll be tracking cases where public research has identified ill-effects of social media algorithms. 
+Research has proven that social media algorithms are having a harmful impact on people. Here, we'll be tracking cases where public research has identified ill-effects of social media algorithms. 
 
 
 ## Facebook
