@@ -22,13 +22,7 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 ## TikTok
 | Date | Ill-effect | Research source |
 |---|---|---|
-| 30 March 2022 | Serves up sex and drug videos to minors | [x](x)  | 
-
-
-## Twitter
-
-
-## Linkedin
+| 30 March 2022 | Serves up sex and drug videos to minors | [Wall Street Journal](https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944)  | 
 
 
 ## Youtube social algorithm
@@ -38,3 +32,8 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 
 
 
+
+## Twitter
+
+
+## Linkedin
