@@ -29,8 +29,10 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 ## Linkedin
 
 
-## Youtube
-
+## Youtube social algorithm
+| Date | Ill-effect | Research source |
+|---|---|---|
+| 30 March 2022 | Pushes users to view mis-information and conspiracy theories | [New York Times](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html)  | 
 
 
 
