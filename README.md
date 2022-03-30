@@ -6,19 +6,19 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 
 
 
-## Facebook
+## Facebook social algorithm
 
 | Ill-effect | Research source |
 |------------|----------|
 | Pushes climate sceptics towards increasingly extreme disinformation and conspiracy groups | [BBC](https://www.bbc.com/news/technology-60905348) |
 
 
-##  Instagram
+##  Instagram social algorithm
 
 
-##  Twitter
+##  Twitter social algorithm
 
 
-##  Linkedin
+##  Linkedin social algorithm
 
 
