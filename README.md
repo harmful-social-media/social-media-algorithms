@@ -4,7 +4,7 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 
 
 
-## Facebook social algorithm
+## Facebook
 
 | Date | Ill-effect | Research source |
 |---|---|---|
@@ -13,19 +13,23 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 | x | x | [x](x)  |
 
 
-## Instagram social algorithm
+## Instagram
 | Date | Ill-effect | Research source |
 |---|---|---|
 | 30 March 2022 | Leads teens to eating disorder content | [x](x)  | 
 | x | x | [x](x)  |
 
-## Twitter social algorithm
+## TikTok
 
 
-## Linkedin social algorithm
+
+## Twitter
 
 
-## Youtube social algorithm
+## Linkedin
+
+
+## Youtube
 
 
 
