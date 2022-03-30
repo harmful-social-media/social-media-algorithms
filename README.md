@@ -16,7 +16,10 @@ Here, we'll be tracking cases where public research has identified ill-effects o
 
 
 ##  Instagram social algorithm
-
+| Date | Ill-effect | Research source |
+|---|---|---|
+| 30 March 2022 | Leads teens to eating disorder content | [x](x)  | 
+| x | x | [x](x)  |
 
 ##  Twitter social algorithm
 
